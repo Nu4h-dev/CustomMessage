@@ -1,0 +1,6 @@
+ 
+name: JoinLeaveMessage
+api: [3.13.0]
+version: 1.0.0
+main: nu4h\main
+author: nu4h
